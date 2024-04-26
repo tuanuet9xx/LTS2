@@ -1,0 +1,10 @@
+2024-04-19 20:22:10.258 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-19 20:22:10.258 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-19 20:22:10.258 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-19 20:22:10.258 [info] Experiment 'pythonTestAdapter' is active
+2024-04-19 20:22:10.258 [info] Default formatter is set to null for workspace /root
+2024-04-19 20:22:10.258 [info] Test server listening.
+2024-04-19 20:22:10.258 [info] Python interpreter path: /usr/local/bin/python3.8
+2024-04-19 20:22:11.013 [info] > pyenv which python
+2024-04-19 20:22:11.013 [info] cwd: .
+2024-04-19 20:22:13.794 [info] Starting Pylance language server.

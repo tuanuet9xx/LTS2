@@ -1,0 +1,11 @@
+websocket:
+  routes:
+    $connect:
+      integration: lambda
+      target: !Sub 'arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:my-connect-function'
+    $disconnect:
+      integration: lambda
+      target: !Sub 'arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:my-disconnect-function'
+    $default:
+      integration: lambda
+      target: !Sub 'arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:my-default-function'

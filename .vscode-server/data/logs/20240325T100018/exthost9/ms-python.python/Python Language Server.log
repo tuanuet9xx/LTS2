@@ -1,0 +1,18 @@
+2024-03-27 09:42:05.474 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-03-27 09:42:07.531 [info] [Info  - 9:42:07 AM] (111983) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-27 09:42:07.543 [info] [Info  - 9:42:07 AM] (111983) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-03-27 09:42:07.543 [info] [Info  - 9:42:07 AM] (111983) Starting service instance "root"
+2024-03-27 09:42:07.976 [info] [Info  - 9:42:07 AM] (111983) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-27 09:42:07.976 [info] [Info  - 9:42:07 AM] (111983) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-27 09:42:10.114 [info] [Info  - 9:42:10 AM] (111983) Found 830 source files
+2024-03-27 09:42:11.530 [info] [Info  - 9:42:11 AM] (111983) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-03-27 09:42:11.531 [info] [Info  - 9:42:11 AM] (111983) Background analysis(1) started
+2024-03-27 09:42:13.221 [info] [Info  - 9:42:13 AM] (111983) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-03-27 09:42:13.224 [info] [Info  - 9:42:13 AM] (111983) Indexing(2) started
+2024-03-27 09:42:17.091 [info] [Info  - 9:42:17 AM] (111983) [IDX(2)] Long operation: scan packages file:///root (3756ms)
+2024-03-27 09:42:17.183 [info] [Info  - 9:42:17 AM] (111983) scanned(2) 49 files over 1 exec env
+2024-03-27 09:42:23.995 [info] [Info  - 9:42:23 AM] (111983) [IDX(2)] Long operation: indexing: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist/typeshed-fallback/stubs/networkx/networkx/__init__.pyi (2568ms)
+2024-03-27 09:42:24.815 [info] [Info  - 9:42:24 AM] (111983) [IDX(2)] Long operation: index execution environment file:///root (4627ms)
+2024-03-27 09:42:24.981 [info] [Info  - 9:42:24 AM] (111983) [IDX(2)] Long operation: index packages file:///root (4977ms)
+2024-03-27 09:42:24.981 [info] [Info  - 9:42:24 AM] (111983) indexed(2) 11 files over 1 exec env
+2024-03-27 09:42:25.213 [info] [Info  - 9:42:25 AM] (111983) Indexing finished(2).

@@ -1,0 +1,17 @@
+2024-04-12 00:06:26.373 [info] Extension host with pid 1689 started
+2024-04-12 00:06:26.373 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/ccaaec33ec2397b18c006b3b33c929fb/vscode.lock'
+2024-04-12 00:06:26.414 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/ccaaec33ec2397b18c006b3b33c929fb/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-04-12 00:06:26.469 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/ccaaec33ec2397b18c006b3b33c929fb/vscode.lock': The pid 111786 appears to be gone.
+2024-04-12 00:06:26.469 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/ccaaec33ec2397b18c006b3b33c929fb/vscode.lock': Deleting a stale lock.
+2024-04-12 00:06:26.608 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-12 00:06:26.645 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-04-12 00:06:27.951 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-12 00:06:27.982 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/ccaaec33ec2397b18c006b3b33c929fb/vscode.lock': Lock acquired.
+2024-04-12 00:06:28.171 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-12 00:06:28.172 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-12 00:06:28.655 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-12 00:06:28.655 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-12 00:06:29.671 [info] Eager extensions activated
+2024-04-12 00:06:29.671 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-12 00:06:29.671 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-12 00:07:04.488 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

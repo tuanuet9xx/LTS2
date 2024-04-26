@@ -1,0 +1,12 @@
+2024-04-26 16:51:56.727 [info] Extension host with pid 1644 started
+2024-04-26 16:51:56.826 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-26 16:51:56.925 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-26 16:51:56.925 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-26 16:51:57.665 [info] Eager extensions activated
+2024-04-26 16:51:57.665 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-26 16:51:57.665 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-26 16:51:59.033 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-26 16:51:59.033 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-26 16:51:59.033 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-26 16:52:10.529 [info] Extension host terminating: received terminate message from renderer
+2024-04-26 16:52:10.572 [info] Extension host with pid 1644 exiting with code 0

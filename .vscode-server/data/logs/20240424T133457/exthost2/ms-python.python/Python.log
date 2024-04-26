@@ -1,0 +1,13 @@
+2024-04-24 13:36:17.090 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-24 13:36:17.090 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-24 13:36:17.090 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-24 13:36:17.090 [info] Experiment 'pythonTestAdapter' is active
+2024-04-24 13:36:17.145 [info] Default formatter is set to null for workspace /root
+2024-04-24 13:36:17.912 [info] Test server listening.
+2024-04-24 13:36:17.913 [info] Python interpreter path: /usr/local/bin/python3.8
+2024-04-24 13:36:18.019 [info] > hatch env show --json
+2024-04-24 13:36:18.019 [info] cwd: .
+2024-04-24 13:36:18.101 [info] > /usr/local/bin/python3.8 -I ./.vscode-server/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-24 13:36:18.494 [info] > pyenv which python
+2024-04-24 13:36:18.494 [info] cwd: .
+2024-04-24 13:36:20.315 [info] Starting Pylance language server.

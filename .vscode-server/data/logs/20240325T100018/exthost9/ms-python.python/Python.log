@@ -1,0 +1,97 @@
+2024-03-27 09:42:03.197 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-27 09:42:03.197 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-27 09:42:03.197 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-27 09:42:03.197 [info] Experiment 'pythonTestAdapter' is active
+2024-03-27 09:42:03.197 [info] Default formatter is set to null for workspace /root
+2024-03-27 09:42:03.197 [info] Test server listening.
+2024-03-27 09:42:03.343 [info] > python -c "import sys;print(sys.executable)"
+2024-03-27 09:42:04.729 [info] Python interpreter path: /usr/bin/python
+2024-03-27 09:42:04.945 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-27 09:42:04.945 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-27 09:42:04.945 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-27 09:42:07.609 [info] Starting Pylance language server.
+2024-03-27 09:45:29.763 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 09:46:27.720 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 09:53:40.270 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 09:54:14.995 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 09:54:38.892 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:02:32.301 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:02:34.654 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:03:00.922 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:24:36.280 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:25:03.696 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:30:45.476 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:30:45.945 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:32:44.407 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:33:30.403 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:33:39.054 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:35:34.728 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:35:35.006 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:35:51.596 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:36:12.907 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:36:13.625 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:37:06.220 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:38:52.027 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:41:54.909 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:42:31.377 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:42:41.159 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:43:51.133 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:44:22.947 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:44:31.190 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 10:44:56.216 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 14:15:28.729 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-27 14:19:26.680 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-28 18:41:39.216 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-28 18:41:40.565 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-29 10:33:00.977 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-29 10:33:05.340 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-04-11 09:45:55.238 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-04-11 13:42:49.984 [info] > conda info --json
+2024-04-11 13:42:50.011 [info] > /usr/share/anaconda/bin/conda info --json
+2024-04-11 13:42:50.025 [info] > ./anaconda-ks.cfg/bin/conda info --json
+2024-04-11 13:42:50.029 [info] Found: /bin/python --> /bin/python2.7
+2024-04-11 13:42:50.031 [info] Found: /bin/python2 --> /bin/python2.7
+2024-04-11 13:42:50.031 [info] Found: /bin/python2.7 --> /bin/python2.7
+2024-04-11 13:42:50.047 [info] Found: /usr/bin/python --> /usr/bin/python2.7
+2024-04-11 13:42:50.048 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-04-11 13:42:50.048 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-04-11 13:42:50.071 [info] Found: /usr/local/bin/python3.8 --> /usr/local/bin/python3.8
+2024-04-11 13:42:50.276 [info] > /bin/python -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-11 13:42:50.280 [warning] [Error: Command failed: /bin/python -I /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:323:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python -I /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py'
+}
+2024-04-11 13:42:50.280 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-04-11 13:42:50.296 [info] > /bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-11 13:42:50.312 [info] > /usr/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-11 13:42:50.314 [warning] [Error: Command failed: /usr/bin/python -I /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:323:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python -I /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py'
+}
+2024-04-11 13:42:50.314 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-04-11 13:42:50.329 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-11 13:42:50.368 [info] > /usr/local/bin/python3.8 -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py

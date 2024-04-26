@@ -1,0 +1,23 @@
+2024-04-15 11:08:44.451 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-15 11:08:49.462 [info] [Info  - 11:08:49 AM] (3940) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-15 11:08:49.475 [info] [Info  - 11:08:49 AM] (3940) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-15 11:08:49.475 [info] [Info  - 11:08:49 AM] (3940) Starting service instance "root"
+2024-04-15 11:08:49.908 [info] [Info  - 11:08:49 AM] (3940) Setting pythonPath for service "root": "/usr/local/bin/python3.8"
+2024-04-15 11:08:49.925 [info] [Info  - 11:08:49 AM] (3940) Setting environmentName for service "root": "3.8.2 (global)"
+2024-04-15 11:08:50.558 [info] [Info  - 11:08:50 AM] (3940) Assuming Python version 3.8.2.final.0
+2024-04-15 11:08:53.530 [info] [Info  - 11:08:53 AM] (3940) Found 830 source files
+2024-04-15 11:08:55.106 [info] [Info  - 11:08:55 AM] (3940) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-15 11:08:55.111 [info] [Info  - 11:08:55 AM] (3940) Background analysis(1) started
+2024-04-15 11:08:57.049 [info] [Info  - 11:08:57 AM] (3940) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-15 11:08:57.049 [info] [Info  - 11:08:57 AM] (3940) Indexing(2) started
+2024-04-15 11:08:57.740 [info] [Info  - 11:08:57 AM] (3940) [BG(1)] Long operation: analyzing: file:///root/AI/clock.py (2657ms)
+2024-04-15 11:09:00.548 [info] [Info  - 11:09:00 AM] (3940) [BG(1)] Long operation: parsing: file:///root/a.py (2475ms)
+2024-04-15 11:09:00.557 [info] [Info  - 11:09:00 AM] (3940) [BG(1)] Long operation: indexing: file:///root/a.py (2483ms)
+2024-04-15 11:09:02.168 [info] [Info  - 11:09:02 AM] (3940) [IDX(2)] Long operation: scan packages file:///root (5072ms)
+2024-04-15 11:09:02.168 [info] [Info  - 11:09:02 AM] (3940) scanned(2) 59 files over 1 exec env
+2024-04-15 11:09:06.275 [info] [Info  - 11:09:06 AM] (3940) indexed(2) 35 files over 1 exec env
+2024-04-15 11:09:06.612 [info] [Info  - 11:09:06 AM] (3940) Indexing finished(2).
+2024-04-15 18:23:18.626 [info] [Info  - 6:23:17 PM] (3940) [BG(1)] Long operation: parsing: file:///root/AI/speak.py (9959ms)
+2024-04-15 18:23:40.442 [info] [Info  - 6:23:38 PM] (3940) [FG] Long operation: parsing: file:///root/AI/understand.py (46541ms)
+2024-04-15 18:24:21.960 [info] [Info  - 6:24:18 PM] (3940) [FG] Long operation: binding: file:///root/AI/understand.py (25155ms)
+2024-04-15 18:25:25.732 [info] [Info  - 6:25:24 PM] (3940) [BG(1)] Long operation: binding: file:///root/AI/speak.py (5004ms)

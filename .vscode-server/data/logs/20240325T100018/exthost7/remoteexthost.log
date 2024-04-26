@@ -1,0 +1,394 @@
+2024-03-26 09:48:37.483 [info] Extension host with pid 108013 started
+2024-03-26 09:48:37.540 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/8556a86f3b2f27b5cde004325239aa80/vscode.lock': Lock acquired.
+2024-03-26 09:48:37.577 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-03-26 09:48:37.647 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-26 09:48:37.897 [info] Eager extensions activated
+2024-03-26 09:48:37.897 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-26 09:48:37.898 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-26 09:48:38.736 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-03-26 09:48:43.032 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:43.312 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:44.378 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-03-26 09:48:44.379 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-03-26 09:48:44.379 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-26 09:48:45.447 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-03-26 09:48:47.016 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:47.017 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:47.729 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:47.741 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:50.051 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:51.899 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:52.016 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:48:53.419 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:49:01.419 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-03-26 09:49:04.999 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:49:07.910 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:49:34.203 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 09:49:37.738 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:26:01.432 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:26:05.076 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:46:37.035 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:46:39.992 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:49:12.752 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:49:16.378 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:51:10.291 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:51:13.449 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:54:22.878 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 16:54:25.926 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 17:08:42.664 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 17:08:45.838 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:06:00.618 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:06:07.915 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:06:08.871 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:06:10.060 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:06:11.291 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:06:13.018 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:07:12.731 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:07:15.642 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:07:23.059 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:07:25.926 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:07:47.314 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:07:50.470 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:09:02.977 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:09:05.496 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:09:11.036 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:09:13.966 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:09:26.533 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:09:29.633 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:10:02.278 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:10:05.809 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:10:05.810 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:10:08.843 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:10:20.649 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 18:10:23.625 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 19:40:14.554 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-26 19:40:17.922 [error] Error: write EPROTO C0377B40457F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-27 09:46:47.142 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-03-27 09:46:49.968 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/8556a86f3b2f27b5cde004325239aa80/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-27 09:47:08.294 [error] Canceled: Canceled
+	at new $ (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:943479)
+	at n.y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:962791)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at O.a (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:6742)
+	at O.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:97:20588)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-03-27 09:47:08.314 [error] Canceled: Canceled
+	at new $ (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:943479)
+	at n.y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:962791)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at O.a (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:6742)
+	at O.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:97:20588)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-03-27 09:47:08.314 [error] Canceled: Canceled
+	at new $ (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:943479)
+	at n.y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:962791)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at O.a (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:6742)
+	at O.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:97:20588)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-03-27 09:47:08.314 [error] Canceled: Canceled
+	at new $ (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:943479)
+	at n.y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:962791)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at O.a (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:6742)
+	at O.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:97:20588)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-03-27 09:47:08.315 [error] Canceled: Canceled
+	at new $ (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:943479)
+	at n.y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:962791)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at O.a (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:6742)
+	at O.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:97:20588)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-03-27 09:47:08.315 [error] Canceled: Canceled
+	at new $ (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/github/dist/extension.js:2:325214)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/github/dist/extension.js:2:326173
+	at p.value (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:1050811)
+	at n.y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:962791)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at O.a (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:173:6742)
+	at O.h (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:97:20588)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-03-27 09:47:10.603 [error] Error: Stopping the server timed out
+	at /root/.vscode-server/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2363426
+	at async Object.stop (/root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist/extension.bundle.js:1:239379)
+	at async _0x285644.<computed>._stopClient (/root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist/extension.bundle.js:1:182203)
+	at async _0x285644.<computed>._createNewRequest (/root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist/extension.bundle.js:1:181784)
+2024-03-27 09:47:10.603 [error] Error: Stopping the server timed out
+	at /root/.vscode-server/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2363426
+	at async Object.stop (/root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist/extension.bundle.js:1:239379)
+	at async _0x285644.<computed>._stopClient (/root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist/extension.bundle.js:1:182203)
+	at async _0x285644.<computed>._createNewRequest (/root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist/extension.bundle.js:1:181784)
+2024-03-27 09:47:10.603 [info] Extension host with pid 108013 exiting with code 0

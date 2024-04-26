@@ -1,0 +1,10 @@
+version: 0.1
+phases:
+  build:
+    commands:
+      - sam build    
+      #- sam deploy --guided
+
+artifacts:
+  files:
+    - '**/*'      

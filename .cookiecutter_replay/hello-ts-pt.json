@@ -1,0 +1,42 @@
+{
+  "cookiecutter": {
+    "project_name": "lambda_skeleton",
+    "runtime": "nodejs16.x",
+    "architectures": {
+      "value": [
+        "x86_64"
+      ]
+    },
+    "Powertools for AWS Lambda (TypeScript) Tracing": "enabled",
+    "Powertools for AWS Lambda (TypeScript) Metrics": "enabled",
+    "Powertools for AWS Lambda (TypeScript) Logging": "enabled",
+    "_copy_without_render": [
+      ".gitignore"
+    ],
+    "_template": "/root/.aws-sam/aws-sam-cli-app-templates/nodejs16.x/hello-ts-pt",
+    "_output_dir": "/root/ltsbitbucket/lts_kilsa/my-websocket-api/lambda_skeleton",
+    "_repo_dir": "/root/.aws-sam/aws-sam-cli-app-templates/nodejs16.x/hello-ts-pt",
+    "_checkout": null
+  },
+  "_cookiecutter": {
+    "project_name": "lambda_skeleton",
+    "runtime": "nodejs16.x",
+    "architectures": {
+      "value": [
+        "x86_64"
+      ]
+    },
+    "Powertools for AWS Lambda (TypeScript) Tracing": [
+      "enabled",
+      "disabled"
+    ],
+    "Powertools for AWS Lambda (TypeScript) Metrics": [
+      "enabled",
+      "disabled"
+    ],
+    "Powertools for AWS Lambda (TypeScript) Logging": [
+      "enabled",
+      "disabled"
+    ]
+  }
+}

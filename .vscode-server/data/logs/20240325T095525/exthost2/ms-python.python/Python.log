@@ -1,0 +1,12 @@
+2024-03-25 09:56:52.384 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-25 09:56:52.384 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-25 09:56:52.384 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-25 09:56:52.384 [info] Experiment 'pythonTestAdapter' is active
+2024-03-25 09:56:52.384 [info] Default formatter is set to null for workspace /root
+2024-03-25 09:56:52.384 [info] Test server listening.
+2024-03-25 09:56:52.407 [info] > python -c "import sys;print(sys.executable)"
+2024-03-25 09:56:52.473 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-25 09:56:52.473 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-25 09:56:52.473 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-25 09:56:52.497 [info] Python interpreter path: /usr/bin/python
+2024-03-25 09:56:53.935 [info] Starting Pylance language server.

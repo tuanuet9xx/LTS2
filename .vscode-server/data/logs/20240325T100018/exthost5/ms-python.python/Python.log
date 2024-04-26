@@ -1,0 +1,23 @@
+2024-03-25 14:18:58.102 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-25 14:18:58.102 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-25 14:18:58.102 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-25 14:18:58.102 [info] Experiment 'pythonTestAdapter' is active
+2024-03-25 14:18:58.353 [info] Default formatter is set to null for workspace /root
+2024-03-25 14:18:59.695 [info] Test server listening.
+2024-03-25 14:19:00.144 [info] > python -c "import sys;print(sys.executable)"
+2024-03-25 14:19:00.374 [info] Python interpreter path: /usr/bin/python
+2024-03-25 14:19:05.103 [info] Starting Pylance language server.
+2024-03-25 14:28:24.207 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-25 14:28:31.421 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-25 14:28:36.722 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-25 14:28:41.362 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-25 14:32:03.082 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-25 14:40:03.091 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-25 14:40:17.887 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-25 14:53:36.387 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-25 14:53:37.007 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-25 14:53:56.028 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-25 14:53:58.582 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-25 15:59:55.692 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-25 16:00:22.516 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-25 16:05:01.527 [info] Discover tests for workspace name: root - uri: /root/AI/speak.py

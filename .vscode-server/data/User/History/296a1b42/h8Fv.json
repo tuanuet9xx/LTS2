@@ -1,0 +1,7 @@
+{
+    "remote.SSH.remotePlatform": {
+        "10.10.22.28": "linux",
+        "10.10.22.147": "linux"
+    },
+    "git.ignoreLegacyWarning": true
+}

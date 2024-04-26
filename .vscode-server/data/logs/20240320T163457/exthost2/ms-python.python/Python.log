@@ -1,0 +1,56 @@
+2024-03-20 21:48:43.225 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-20 21:48:43.225 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-20 21:48:43.225 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-20 21:48:43.225 [info] Experiment 'pythonTestAdapter' is active
+2024-03-20 21:48:43.225 [info] Default formatter is set to null for workspace /root
+2024-03-20 21:48:43.225 [info] Test server listening.
+2024-03-20 21:48:43.250 [info] > python -c "import sys;print(sys.executable)"
+2024-03-20 21:48:43.300 [info] Python interpreter path: /usr/bin/python
+2024-03-20 21:48:43.332 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-20 21:48:43.332 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-20 21:48:43.332 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-20 21:48:45.164 [info] Starting Pylance language server.
+2024-03-20 21:53:12.101 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 21:53:12.757 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 21:54:17.435 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 21:54:52.302 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 21:55:51.085 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 21:59:53.490 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/normalizeSelection.py
+2024-03-20 21:59:55.723 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 22:06:47.669 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/normalizeSelection.py
+2024-03-20 22:07:47.230 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 22:09:15.766 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:09:34.278 [info] Discover tests for workspace name: root - uri: /root/AI/listen.py
+2024-03-20 22:27:43.284 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/normalizeSelection.py
+2024-03-20 22:27:44.470 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:29:29.754 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:29:52.255 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:34:00.584 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:34:25.502 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:34:45.177 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:35:12.158 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:35:19.595 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:35:42.999 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:36:12.283 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:37:58.808 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:37:59.414 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:38:05.753 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:40:52.473 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:41:05.217 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 22:57:53.669 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 22:57:54.987 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 22:58:56.299 [info] Discover tests for workspace name: root - uri: /root/AI/speak.py
+2024-03-20 22:59:12.922 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 22:59:29.689 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 22:59:36.613 [info] Discover tests for workspace name: root - uri: /root/AI/listen.py
+2024-03-20 22:59:39.011 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 23:02:23.474 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:04:03.645 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:04:17.196 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:04:17.614 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:04:22.410 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:10:05.313 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:14:01.045 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-20 23:54:19.352 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:54:57.314 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py
+2024-03-20 23:56:27.943 [info] Discover tests for workspace name: root - uri: /root/AI/AI.py

@@ -1,0 +1,28 @@
+{
+  "cookiecutter": {
+    "project_name": "chat-app",
+    "runtime": "python3.8",
+    "architectures": {
+      "value": [
+        "x86_64"
+      ]
+    },
+    "_copy_without_render": [
+      ".gitignore"
+    ],
+    "__stack_name": "chat-app",
+    "_template": "/root/.aws-sam/aws-sam-cli-app-templates/python3.8/hello",
+    "_output_dir": "/root/ltsbitbucket/lts_kilsa",
+    "_repo_dir": "/root/.aws-sam/aws-sam-cli-app-templates/python3.8/hello",
+    "_checkout": null
+  },
+  "_cookiecutter": {
+    "project_name": "chat-app",
+    "runtime": "python3.8",
+    "architectures": {
+      "value": [
+        "x86_64"
+      ]
+    }
+  }
+}

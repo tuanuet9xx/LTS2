@@ -1,0 +1,18 @@
+2024-03-20 16:34:59.769 [info] Extension host with pid 1622 started
+2024-03-20 16:34:59.908 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-20 16:35:00.032 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-20 16:35:00.033 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-20 16:35:00.809 [info] Eager extensions activated
+2024-03-20 16:35:00.809 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-20 16:35:00.810 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-20 16:35:01.809 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-20 16:35:01.809 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-20 16:35:01.810 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-20 16:35:02.856 [error] Error: write EPROTO C097F10FBF7F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-20 16:35:05.625 [error] Error: write EPROTO C097F10FBF7F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:
+
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+2024-03-20 16:35:18.249 [info] Extension host terminating: received terminate message from renderer
+2024-03-20 16:35:18.329 [info] Extension host with pid 1622 exiting with code 0

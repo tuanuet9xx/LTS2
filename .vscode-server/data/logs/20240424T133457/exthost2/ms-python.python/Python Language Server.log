@@ -1,0 +1,18 @@
+2024-04-24 13:36:19.177 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-24 13:36:20.204 [info] [Info  - 1:36:20 PM] (5211) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-24 13:36:20.204 [info] [Info  - 1:36:20 PM] (5211) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 13:36:20.241 [info] [Info  - 1:36:20 PM] (5211) Starting service instance "root"
+2024-04-24 13:36:20.397 [info] [Info  - 1:36:20 PM] (5211) Setting pythonPath for service "root": "/usr/local/bin/python3.8"
+2024-04-24 13:36:20.397 [info] [Info  - 1:36:20 PM] (5211) Setting environmentName for service "root": "3.8.2 (global)"
+2024-04-24 13:36:20.490 [info] [Info  - 1:36:20 PM] (5211) Assuming Python version 3.8.2.final.0
+2024-04-24 13:36:22.144 [info] [Info  - 1:36:22 PM] (5211) Found 830 source files
+2024-04-24 13:36:22.171 [info] [Info  - 1:36:22 PM] (5211) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 13:36:22.171 [info] [Info  - 1:36:22 PM] (5211) Background analysis(1) started
+2024-04-24 13:36:25.381 [info] [Info  - 1:36:25 PM] (5211) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-24 13:36:25.381 [info] [Info  - 1:36:25 PM] (5211) Indexing(2) started
+2024-04-24 13:36:26.954 [info] [Info  - 1:36:26 PM] (5211) [BG(1)] Long operation: checking: file:///root/AI/AI.py (2928ms)
+2024-04-24 13:36:26.954 [info] [Info  - 1:36:26 PM] (5211) [BG(1)] Long operation: analyzing: file:///root/AI/AI.py (3818ms)
+2024-04-24 13:36:28.441 [info] [Info  - 1:36:28 PM] (5211) [IDX(2)] Long operation: scan packages file:///root (3006ms)
+2024-04-24 13:36:28.442 [info] [Info  - 1:36:28 PM] (5211) scanned(2) 59 files over 1 exec env
+2024-04-24 13:36:31.705 [info] [Info  - 1:36:31 PM] (5211) indexed(2) 35 files over 1 exec env
+2024-04-24 13:36:31.944 [info] [Info  - 1:36:31 PM] (5211) Indexing finished(2).

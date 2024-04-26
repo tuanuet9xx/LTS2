@@ -1,0 +1,15 @@
+2024-04-24 13:35:17.022 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-24 13:35:17.932 [info] [Info  - 1:35:17 PM] (4947) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-24 13:35:17.933 [info] [Info  - 1:35:17 PM] (4947) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 13:35:17.969 [info] [Info  - 1:35:17 PM] (4947) Starting service instance "<default>"
+2024-04-24 13:35:18.027 [info] [Info  - 1:35:18 PM] (4947) Setting pythonPath for service "<default>": "/usr/local/bin/python3.8"
+2024-04-24 13:35:18.027 [info] [Info  - 1:35:18 PM] (4947) Setting environmentName for service "<default>": "3.8.2 (global)"
+2024-04-24 13:35:18.927 [info] [Info  - 1:35:18 PM] (4947) Assuming Python version 3.8.2.final.0
+2024-04-24 13:35:19.073 [info] [Info  - 1:35:19 PM] (4947) No source files found.
+2024-04-24 13:35:19.215 [info] [Info  - 1:35:19 PM] (4947) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 13:35:19.215 [info] [Info  - 1:35:19 PM] (4947) Background analysis(1) started
+2024-04-24 13:35:19.244 [info] [Info  - 1:35:19 PM] (4947) Setting pythonPath for service "<default>": "/usr/local/bin/python3.8"
+2024-04-24 13:35:19.244 [info] [Info  - 1:35:19 PM] (4947) Setting environmentName for service "<default>": "3.8.2 (global)"
+2024-04-24 13:35:19.309 [info] [Info  - 1:35:19 PM] (4947) Assuming Python version 3.8.2.final.0
+2024-04-24 13:35:19.357 [info] [Info  - 1:35:19 PM] (4947) No source files found.
+2024-04-24 13:35:21.481 [info] [Info  - 1:35:21 PM] (4947) [BG(1)] Long operation: analyzing: file:///root/AI/AI.py (2055ms)

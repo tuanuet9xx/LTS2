@@ -1,0 +1,20 @@
+2024-03-25 14:17:09.437 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-25 14:17:10.381 [info] [Info  - 2:17:10 PM] (104052) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-25 14:17:10.481 [info] [Info  - 2:17:10 PM] (104052) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 14:17:10.483 [info] [Info  - 2:17:10 PM] (104052) Starting service instance "root"
+2024-03-25 14:17:10.728 [info] [Info  - 2:17:10 PM] (104052) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-25 14:17:10.728 [info] [Info  - 2:17:10 PM] (104052) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-25 14:17:12.994 [info] [Info  - 2:17:12 PM] (104052) Found 829 source files
+2024-03-25 14:17:14.167 [info] [Info  - 2:17:14 PM] (104052) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 14:17:14.167 [info] [Info  - 2:17:14 PM] (104052) Background analysis(1) started
+2024-03-25 14:17:15.453 [info] [Info  - 2:17:15 PM] (104052) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-25 14:17:15.454 [info] [Info  - 2:17:15 PM] (104052) Indexing(2) started
+2024-03-25 14:17:17.727 [info] [Info  - 2:17:17 PM] (104052) [IDX(2)] Long operation: scan packages file:///root (2191ms)
+2024-03-25 14:17:17.727 [info] [Info  - 2:17:17 PM] (104052) scanned(2) 49 files over 1 exec env
+2024-03-25 14:17:20.488 [info] [Info  - 2:17:20 PM] (104052) indexed(2) 11 files over 1 exec env
+2024-03-25 14:17:20.661 [info] [Info  - 2:17:20 PM] (104052) Indexing finished(2).
+2024-03-25 14:17:50.095 [info] [Info  - 2:17:50 PM] (104052) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-25 14:17:50.095 [info] [Info  - 2:17:50 PM] (104052) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-25 14:17:50.888 [info] [Info  - 2:17:50 PM] (104052) Found 829 source files
+2024-03-25 14:17:53.349 [info] [Info  - 2:17:53 PM] (104052) Indexer background runner(3) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-25 14:17:53.405 [info] [Info  - 2:17:53 PM] (104052) Indexing(3) started

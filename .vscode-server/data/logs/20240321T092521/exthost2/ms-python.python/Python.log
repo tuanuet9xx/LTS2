@@ -1,0 +1,21 @@
+2024-03-21 09:25:48.977 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-21 09:25:48.977 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-21 09:25:48.977 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-21 09:25:48.977 [info] Experiment 'pythonTestAdapter' is active
+2024-03-21 09:25:48.977 [info] Default formatter is set to null for workspace /root
+2024-03-21 09:25:48.980 [info] Test server listening.
+2024-03-21 09:25:49.013 [info] > python -c "import sys;print(sys.executable)"
+2024-03-21 09:25:49.063 [info] Python interpreter path: /usr/bin/python
+2024-03-21 09:25:49.168 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-21 09:25:49.168 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-21 09:25:49.168 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-21 09:25:50.579 [info] Starting Pylance language server.
+2024-03-21 09:26:51.820 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-21 09:27:13.991 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-21 09:27:25.266 [info] Discover tests for workspace name: root - uri: /root/AI/understand.py
+2024-03-21 09:37:55.062 [info] Discover tests for workspace name: root - uri: /root/AI/speak.py
+2024-03-21 10:50:02.177 [info] Discover tests for workspace name: root - uri: /root/CloudWatch-Monitoring-logging/export_cloudwatchlogs_to_s3.py
+2024-03-21 10:50:31.103 [info] Discover tests for workspace name: root - uri: /root/CloudWatch-Monitoring-logging/export_cloudwatchlogs_to_s3.py
+2024-03-21 14:40:24.223 [info] Discover tests for workspace name: root - uri: /root/CloudWatch-Monitoring-logging/export_cloudwatchlogs_to_s3.py
+2024-03-22 16:31:01.023 [info] Discover tests for workspace name: undefined - uri: c:/Users/tuannv2/AppData/Roaming/Code/User/settings.json
+2024-03-22 16:39:08.077 [info] Discover tests for workspace name: root - uri: /root/a.py

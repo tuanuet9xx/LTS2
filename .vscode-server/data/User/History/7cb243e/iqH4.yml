@@ -1,0 +1,26 @@
+#version: 0.2
+#phases:
+#  build:
+#    commands:
+    #  - sam build
+#      - sam deploy --guided
+#artifacts:
+#  files:
+#    - '**/*'     
+
+
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+      nodejs: nodejs20.x
+    commands:
+    - npm install
+    - aws cloudformation package --template-file template.yaml --s3-bucket my-s3-bucket --output-template-file cft.yaml
+artifacts:
+  type: zip
+  files:
+  - cft.yaml
+  discard-paths: yes
+
+

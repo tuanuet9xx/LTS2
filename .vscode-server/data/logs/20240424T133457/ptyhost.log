@@ -1,0 +1,33 @@
+2024-04-24 13:34:59.618 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 13:35:00.446 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n\tfi\nfi\nexit 0"]
+2024-04-24 13:35:00.519 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n\tfi\nfi\nexit 0"]
+2024-04-24 13:35:00.552 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n\tfi\nfi\nexit 0"]
+2024-04-24 13:35:00.555 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n\tfi\nfi\nexit 0"]
+2024-04-24 13:36:11.014 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n\tfi\nfi\nexit 0"]
+2024-04-24 13:36:11.037 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n\tfi\nfi\nexit 0"]
+2024-04-24 13:36:11.051 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n\tfi\nfi\nexit 0"]
+2024-04-24 13:36:11.055 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n\tfi\nfi\nexit 0"]
+2024-04-24 16:58:22.518 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-04-24 16:58:22.518 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 16:58:22.518 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 16:58:22.622 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 17:29:44.477 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-04-24 17:29:44.477 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 17:29:44.477 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 17:29:44.994 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 19:47:33.642 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-04-24 19:47:33.642 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 19:47:33.642 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 19:47:34.105 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 21:12:12.727 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-04-24 21:12:12.727 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 21:12:12.727 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 21:12:13.022 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 21:50:20.470 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-04-24 21:50:20.470 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 21:50:20.470 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 21:50:21.057 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 22:23:07.490 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-04-24 22:23:07.490 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 22:23:07.490 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-04-24 22:23:07.490 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host

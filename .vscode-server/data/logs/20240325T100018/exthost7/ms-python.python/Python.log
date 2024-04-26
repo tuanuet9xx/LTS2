@@ -1,0 +1,16 @@
+2024-03-26 09:48:46.705 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-26 09:48:46.705 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-26 09:48:46.705 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-26 09:48:46.705 [info] Experiment 'pythonTestAdapter' is active
+2024-03-26 09:48:46.705 [info] Default formatter is set to null for workspace /root
+2024-03-26 09:48:46.705 [info] Test server listening.
+2024-03-26 09:48:46.790 [info] > python -c "import sys;print(sys.executable)"
+2024-03-26 09:48:47.266 [info] Python interpreter path: /usr/bin/python
+2024-03-26 09:48:47.796 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-26 09:48:47.796 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-26 09:48:47.796 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-26 09:48:51.993 [info] Starting Pylance language server.
+2024-03-26 18:06:26.968 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-26 18:08:19.863 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-26 18:10:03.698 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py
+2024-03-26 19:40:13.339 [info] Discover tests for workspace name: root - uri: /root/AI/clock.py

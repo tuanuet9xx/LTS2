@@ -1,0 +1,26 @@
+Resources:
+  WebSocketApi:
+    Type: AWS::ApiGatewayV2::Api
+    Properties:
+      Name: MyWebSocketApi
+      ProtocolType: WEBSOCKET
+
+  DefaultRoute:
+    Type: AWS::ApiGatewayV2::Route
+    Properties:
+      ApiId: !Ref WebSocketApi
+      RouteKey: $default
+      AuthorizationType: NONE
+      Target: !Join
+        - '/'
+        - - 'integrations'
+          - !Ref DefaultIntegration
+
+  DefaultIntegration:
+    Type: AWS::ApiGatewayV2::Integration
+    Properties:
+      ApiId: !Ref WebSocketApi
+      IntegrationType: AWS_PROXY
+      IntegrationUri: !Sub
+        - arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${FunctionArn}/invocations
+        - FunctionArn: !GetAtt MyLambdaFunction.Arn

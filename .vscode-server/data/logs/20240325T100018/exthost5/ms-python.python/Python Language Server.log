@@ -1,0 +1,40 @@
+2024-03-25 14:19:03.649 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-25 14:19:04.781 [info] [Info  - 2:19:04 PM] (104697) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-25 14:19:04.893 [info] [Info  - 2:19:04 PM] (104697) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 14:19:05.060 [info] [Info  - 2:19:05 PM] (104697) Starting service instance "root"
+2024-03-25 14:19:05.268 [info] [Info  - 2:19:05 PM] (104697) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-25 14:19:05.269 [info] [Info  - 2:19:05 PM] (104697) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-25 14:19:07.540 [info] [Info  - 2:19:07 PM] (104697) Found 829 source files
+2024-03-25 14:19:08.525 [info] [Info  - 2:19:08 PM] (104697) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 14:19:08.525 [info] [Info  - 2:19:08 PM] (104697) Background analysis(1) started
+2024-03-25 14:19:09.495 [info] [Info  - 2:19:09 PM] (104697) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-25 14:19:09.495 [info] [Info  - 2:19:09 PM] (104697) Indexing(2) started
+2024-03-25 14:19:11.931 [info] [Info  - 2:19:11 PM] (104697) [IDX(2)] Long operation: scan packages file:///root (2444ms)
+2024-03-25 14:19:11.931 [info] [Info  - 2:19:11 PM] (104697) scanned(2) 49 files over 1 exec env
+2024-03-25 14:19:14.391 [info] [Info  - 2:19:14 PM] (104697) indexed(2) 11 files over 1 exec env
+2024-03-25 14:19:14.521 [info] [Info  - 2:19:14 PM] (104697) Indexing finished(2).
+2024-03-25 14:28:24.248 [info] [Info  - 2:28:24 PM] (104697) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-25 14:28:24.248 [info] [Info  - 2:28:24 PM] (104697) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-25 14:28:25.024 [info] [Info  - 2:28:25 PM] (104697) Found 829 source files
+2024-03-25 14:28:26.985 [info] [Info  - 2:28:26 PM] (104697) Indexer background runner(3) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-25 14:28:26.986 [info] [Info  - 2:28:26 PM] (104697) Indexing(3) started
+2024-03-25 14:28:28.485 [info] [Info  - 2:28:28 PM] (104697) scanned(3) 49 files over 1 exec env
+2024-03-25 14:28:30.686 [info] [Info  - 2:28:30 PM] (104697) indexed(3) 11 files over 1 exec env
+2024-03-25 14:28:30.873 [info] [Info  - 2:28:30 PM] (104697) Indexing finished(3).
+2024-03-25 14:28:31.413 [info] [Info  - 2:28:31 PM] (104697) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-25 14:28:31.413 [info] [Info  - 2:28:31 PM] (104697) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-25 14:28:32.504 [info] [Info  - 2:28:32 PM] (104697) Found 829 source files
+2024-03-25 14:28:34.631 [info] [Info  - 2:28:34 PM] (104697) Indexer background runner(4) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-25 14:28:34.698 [info] [Info  - 2:28:34 PM] (104697) Indexing(4) started
+2024-03-25 14:28:36.017 [info] [Info  - 2:28:36 PM] (104697) scanned(4) 49 files over 1 exec env
+2024-03-25 14:28:36.733 [info] [Info  - 2:28:36 PM] (104697) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-25 14:28:36.733 [info] [Info  - 2:28:36 PM] (104697) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-25 14:28:37.720 [info] [Info  - 2:28:37 PM] (104697) Found 829 source files
+2024-03-25 14:28:40.187 [info] [Info  - 2:28:40 PM] (104697) scanned(4) 49 files over 1 exec env
+2024-03-25 14:28:42.450 [info] [Info  - 2:28:42 PM] (104697) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-25 14:28:42.450 [info] [Info  - 2:28:42 PM] (104697) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-25 14:28:43.407 [info] [Info  - 2:28:43 PM] (104697) Found 829 source files
+2024-03-25 14:28:43.801 [info] [Info  - 2:28:43 PM] (104697) indexed(4) 11 files over 1 exec env
+2024-03-25 14:28:45.238 [info] [Info  - 2:28:45 PM] (104697) scanned(4) 49 files over 1 exec env
+2024-03-25 14:28:46.787 [info] [Info  - 2:28:46 PM] (104697) indexed(4) 11 files over 1 exec env
+2024-03-25 14:28:46.916 [info] [Info  - 2:28:46 PM] (104697) Indexing finished(4).

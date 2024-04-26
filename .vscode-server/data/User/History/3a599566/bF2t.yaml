@@ -1,0 +1,20 @@
+websocket:
+  routes:
+    $connect:
+      integration: lambda
+      target: 
+        uri:
+          Fn::Sub:
+            - 'arn:aws:apigateway:${AWSRegion}:lambda:path/2015-03-31/functions/${FunctionArn}/invocations'
+            - AWSRegion:
+               Ref: AWS::Region
+            AWSAccountId:
+              Ref: AWS::AccountId
+            FunctionArn:
+              Fn::GetAtt: [UserServicesFunction, Arn]
+    $disconnect:
+      integration: lambda
+      target: !Sub 'arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:my-disconnect-function'
+    $default:
+      integration: lambda
+      target: !Sub 'arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:my-default-functi

@@ -1,0 +1,16 @@
+2024-03-21 09:25:49.741 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-21 09:25:50.326 [info] [Info  - 9:25:50 AM] (10972) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-21 09:25:50.428 [info] [Info  - 9:25:50 AM] (10972) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-21 09:25:50.538 [info] [Info  - 9:25:50 AM] (10972) Starting service instance "root"
+2024-03-21 09:25:50.670 [info] [Info  - 9:25:50 AM] (10972) Setting pythonPath for service "root": "/usr/bin/python"
+2024-03-21 09:25:50.670 [info] [Info  - 9:25:50 AM] (10972) Setting environmentName for service "root": "2.7.5 (global)"
+2024-03-21 09:25:52.150 [info] [Info  - 9:25:52 AM] (10972) Found 825 source files
+2024-03-21 09:25:53.144 [info] [Info  - 9:25:53 AM] (10972) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-21 09:25:53.145 [info] [Info  - 9:25:53 AM] (10972) Background analysis(1) started
+2024-03-21 09:25:54.411 [info] [Info  - 9:25:54 AM] (10972) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-21 09:25:54.411 [info] [Info  - 9:25:54 AM] (10972) Indexing(2) started
+2024-03-21 09:25:56.285 [info] [Info  - 9:25:56 AM] (10972) scanned(2) 49 files over 1 exec env
+2024-03-21 09:25:58.497 [info] [Info  - 9:25:58 AM] (10972) indexed(2) 11 files over 1 exec env
+2024-03-21 09:25:58.569 [info] [Info  - 9:25:58 AM] (10972) Indexing finished(2).
+2024-03-21 10:49:56.991 [info] [Info  - 10:49:56 AM] (10972) Found 826 source files
+2024-03-22 16:30:52.950 [info] [Info  - 4:30:52 PM] (10972) Found 827 source files

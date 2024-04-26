@@ -1,0 +1,22 @@
+2024-04-12 00:06:32.529 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-12 00:06:33.785 [info] [Info  - 12:06:33 AM] (1875) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-12 00:06:33.786 [info] [Info  - 12:06:33 AM] (1875) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-12 00:06:33.786 [info] [Info  - 12:06:33 AM] (1875) Starting service instance "root"
+2024-04-12 00:06:34.083 [info] [Info  - 12:06:34 AM] (1875) Setting pythonPath for service "root": "/usr/local/bin/python3.8"
+2024-04-12 00:06:34.083 [info] [Info  - 12:06:34 AM] (1875) Setting environmentName for service "root": "3.8.2 (global)"
+2024-04-12 00:06:34.224 [info] [Info  - 12:06:34 AM] (1875) Assuming Python version 3.8.2.final.0
+2024-04-12 00:06:36.582 [info] [Info  - 12:06:36 AM] (1875) Found 830 source files
+2024-04-12 00:06:36.629 [info] [Info  - 12:06:36 AM] (1875) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-12 00:06:36.629 [info] [Info  - 12:06:36 AM] (1875) Background analysis(1) started
+2024-04-12 00:06:39.615 [info] [Info  - 12:06:39 AM] (1875) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-12 00:06:39.615 [info] [Info  - 12:06:39 AM] (1875) Indexing(2) started
+2024-04-12 00:06:40.293 [info] [Info  - 12:06:40 AM] (1875) [BG(1)] Long operation: analyzing: file:///root/AI/clock.py (2505ms)
+2024-04-12 00:06:44.201 [info] [Info  - 12:06:44 AM] (1875) [BG(1)] Long operation: parsing: file:///root/a.py (2584ms)
+2024-04-12 00:06:44.204 [info] [Info  - 12:06:44 AM] (1875) [BG(1)] Long operation: indexing: file:///root/a.py (2589ms)
+2024-04-12 00:06:44.535 [info] [Info  - 12:06:44 AM] (1875) [IDX(2)] Long operation: scan packages file:///root (4900ms)
+2024-04-12 00:06:44.535 [info] [Info  - 12:06:44 AM] (1875) scanned(2) 59 files over 1 exec env
+2024-04-12 00:06:51.110 [info] [Info  - 12:06:51 AM] (1875) [IDX(2)] Long operation: indexing: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stubs/networkx/networkx/__init__.pyi (2264ms)
+2024-04-12 00:06:54.502 [info] [Info  - 12:06:54 AM] (1875) [IDX(2)] Long operation: index execution environment file:///root (6280ms)
+2024-04-12 00:06:54.648 [info] [Info  - 12:06:54 AM] (1875) [IDX(2)] Long operation: index packages file:///root (6436ms)
+2024-04-12 00:06:54.648 [info] [Info  - 12:06:54 AM] (1875) indexed(2) 35 files over 1 exec env
+2024-04-12 00:06:55.003 [info] [Info  - 12:06:55 AM] (1875) Indexing finished(2).

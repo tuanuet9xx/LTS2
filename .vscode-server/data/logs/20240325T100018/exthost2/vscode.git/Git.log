@@ -1,0 +1,135 @@
+2024-03-25 14:06:35.904 [info] Log level: Info
+2024-03-25 14:06:35.904 [info] Validating found git in: "git"
+2024-03-25 14:06:35.904 [info] Using git "1.8.3.1" from "git"
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [23ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [170ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [58ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [6ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [35ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [39ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [55ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [26ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [48ms]
+2024-03-25 14:06:35.904 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-03-25 14:06:35.904 [info] Open repository: /root/CloudWatch-Monitoring-logging
+2024-03-25 14:06:35.904 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/CloudWatch-Monitoring-logging/--git-common-dir/config'
+2024-03-25 14:06:35.904 [info] > git config --get commit.template [105ms]
+2024-03-25 14:06:35.904 [info] > git remote --verbose [180ms]
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [70ms]
+2024-03-25 14:06:35.904 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-03-25 14:06:35.904 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [59ms]
+2024-03-25 14:06:35.904 [info] Open repository: /root/LTS
+2024-03-25 14:06:35.904 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/LTS/--git-common-dir/config'
+2024-03-25 14:06:35.904 [info] > git rev-list --left-right --count master...origin/master [519ms]
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [10ms]
+2024-03-25 14:06:35.904 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:35.904 [info] > git config --get commit.template [53ms]
+2024-03-25 14:06:35.904 [info] > git remote --verbose [121ms]
+2024-03-25 14:06:35.904 [info] > git rev-parse --show-toplevel [71ms]
+2024-03-25 14:06:35.906 [info] > git status -z -uall [67ms]
+2024-03-25 14:06:35.906 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-03-25 14:06:35.952 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [218ms]
+2024-03-25 14:06:36.088 [info] Open repository: /root/aws-cognito
+2024-03-25 14:06:36.139 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/CloudWatch-Monitoring-logging/--git-common-dir/config'
+2024-03-25 14:06:36.229 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/aws-cognito/--git-common-dir/config'
+2024-03-25 14:06:36.321 [info] > git remote --verbose [181ms]
+2024-03-25 14:06:36.321 [info] > git rev-list --left-right --count master...origin/master [281ms]
+2024-03-25 14:06:36.324 [info] > git config --get commit.template [50ms]
+2024-03-25 14:06:36.326 [info] > git remote --verbose [96ms]
+2024-03-25 14:06:36.326 [info] > git config --get commit.template [154ms]
+2024-03-25 14:06:36.387 [warning] ENOENT: no such file or directory, open '/root/LTS/.git/refs/remotes/origin/master'
+2024-03-25 14:06:36.419 [info] > git rev-parse refs/remotes/origin/master [32ms]
+2024-03-25 14:06:36.449 [info] > git rev-parse --show-toplevel [132ms]
+2024-03-25 14:06:36.704 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [286ms]
+2024-03-25 14:06:36.763 [info] > git check-ignore -v -z --stdin [265ms]
+2024-03-25 14:06:36.766 [info] > git check-ignore -v -z --stdin [188ms]
+2024-03-25 14:06:36.782 [info] > git rev-parse --git-dir --git-common-dir [93ms]
+2024-03-25 14:06:36.812 [info] Open repository: /root/cognito-auth
+2024-03-25 14:06:36.814 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/main refs/remotes/main [184ms]
+2024-03-25 14:06:36.933 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/cognito-auth/--git-common-dir/config'
+2024-03-25 14:06:37.003 [info] > git rev-list --left-right --count master...origin/master [246ms]
+2024-03-25 14:06:37.005 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-25 14:06:37.005 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:37.005 [info] > git config --get commit.template [36ms]
+2024-03-25 14:06:37.005 [info] > git remote --verbose [72ms]
+2024-03-25 14:06:37.006 [info] > git rev-list --left-right --count main...origin/main [116ms]
+2024-03-25 14:06:37.071 [info] > git rev-parse --show-toplevel [26ms]
+2024-03-25 14:06:37.071 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:06:37.154 [info] > git status -z -uall [706ms]
+2024-03-25 14:06:37.155 [info] > git status -z -uall [14ms]
+2024-03-25 14:06:37.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/test refs/remotes/test [121ms]
+2024-03-25 14:06:37.318 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/LTS/--git-common-dir/config'
+2024-03-25 14:06:37.347 [info] > git status -z -uall [194ms]
+2024-03-25 14:06:37.347 [info] > git rev-parse --show-toplevel [231ms]
+2024-03-25 14:06:37.353 [info] > git remote --verbose [35ms]
+2024-03-25 14:06:37.353 [info] > git rev-list --left-right --count test...origin/test [115ms]
+2024-03-25 14:06:37.467 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/aws-cognito/--git-common-dir/config'
+2024-03-25 14:06:37.468 [info] > git config --get commit.template [122ms]
+2024-03-25 14:06:37.692 [info] > git remote --verbose [225ms]
+2024-03-25 14:06:37.693 [info] > git rev-parse --git-dir --git-common-dir [272ms]
+2024-03-25 14:06:37.698 [info] Open repository: /root/websockets-chat-app
+2024-03-25 14:06:37.701 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [10ms]
+2024-03-25 14:06:37.742 [info] > git config --get commit.template [111ms]
+2024-03-25 14:06:37.773 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/websockets-chat-app/--git-common-dir/config'
+2024-03-25 14:06:37.806 [info] > git rev-list --left-right --count master...origin/master [64ms]
+2024-03-25 14:06:37.892 [info] > git config --get commit.template [88ms]
+2024-03-25 14:06:37.892 [info] > git remote --verbose [119ms]
+2024-03-25 14:06:37.934 [warning] ENOENT: no such file or directory, open '/root/LTS/.git/refs/remotes/origin/master'
+2024-03-25 14:06:37.934 [info] > git status -z -uall [82ms]
+2024-03-25 14:06:37.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/main refs/remotes/main [44ms]
+2024-03-25 14:06:37.959 [info] > git rev-list --left-right --count main...origin/main [5ms]
+2024-03-25 14:06:37.959 [info] > git rev-parse refs/remotes/origin/master [26ms]
+2024-03-25 14:06:38.065 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/cognito-auth/--git-common-dir/config'
+2024-03-25 14:06:38.091 [info] > git config --get commit.template [1ms]
+2024-03-25 14:06:38.091 [info] > git remote --verbose [26ms]
+2024-03-25 14:06:38.153 [info] > git status -z -uall [161ms]
+2024-03-25 14:06:38.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [117ms]
+2024-03-25 14:06:38.205 [info] > git status -z -uall [74ms]
+2024-03-25 14:06:38.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/test refs/remotes/test [53ms]
+2024-03-25 14:06:38.286 [info] > git rev-list --left-right --count master...origin/master [83ms]
+2024-03-25 14:06:38.300 [info] > git rev-list --left-right --count test...origin/test [43ms]
+2024-03-25 14:06:38.434 [info] > git status -z -uall [46ms]
+2024-03-25 14:06:38.434 [info] > git status -z -uall [2ms]
+2024-03-25 14:06:38.503 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/websockets-chat-app/--git-common-dir/config'
+2024-03-25 14:06:38.541 [info] > git remote --verbose [39ms]
+2024-03-25 14:06:38.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [5ms]
+2024-03-25 14:06:38.616 [info] > git config --get commit.template [78ms]
+2024-03-25 14:06:38.617 [info] > git rev-list --left-right --count master...origin/master [1ms]
+2024-03-25 14:06:38.663 [info] > git status -z -uall [2ms]
+2024-03-25 14:06:39.229 [info] > git check-ignore -v -z --stdin [119ms]
+2024-03-25 14:06:39.230 [info] > git check-ignore -v -z --stdin [94ms]
+2024-03-25 14:06:39.231 [info] > git check-ignore -v -z --stdin [71ms]
+2024-03-25 14:06:39.232 [info] > git check-ignore -v -z --stdin [43ms]
+2024-03-25 14:06:39.263 [info] > git check-ignore -v -z --stdin [41ms]
+2024-03-25 14:11:29.542 [info] > git rev-parse --show-toplevel [10ms]
+2024-03-25 14:11:29.542 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:11:29.569 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-25 14:11:29.569 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:11:29.593 [info] > git rev-parse --show-toplevel [0ms]
+2024-03-25 14:11:29.593 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:11:29.614 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-25 14:11:29.614 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:11:29.628 [info] > git rev-parse --show-toplevel [0ms]
+2024-03-25 14:11:29.628 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:16:38.390 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-25 14:16:38.390 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:16:39.229 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-25 14:16:39.229 [info] fatal: Not a git repository (or any of the parent directories): .git
+2024-03-25 14:16:40.060 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-25 14:16:40.060 [info] fatal: Not a git repository (or any of the parent directories): .git
